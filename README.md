@@ -5,4 +5,4 @@ Grup üyeleri:
 - Emir Arda Akdoğanlı
 - Nisan Bildik
 - Ceyda Hızal 
-- 
+- Furkan Kılcı
