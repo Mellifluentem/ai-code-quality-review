@@ -3,6 +3,6 @@ Python kodunda kod smelleri ve bakım yapılabilirlik sorunlarının, statik ana
 
 Grup üyeleri:
 - Emir Arda Akdoğanlı
-- Nisan
+- Nisan Bildik
 -
 - 
